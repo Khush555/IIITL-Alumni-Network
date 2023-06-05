@@ -9,8 +9,8 @@ The IIITL Alumni Portal is a web application built using ReactJS, SCSS, Python, 
 <li> Recommendation bot: The portal consists of a recommendation AI bot which recommends blogs to uers according to the keywords they search. 
 
 # Tech Stack Used
-Frontend: ReactJS,SCSS.
-Backend: Python, Firebase.
+<li>Frontend: ReactJS,SCSS.
+<li>Backend: Python, Firebase.
 
 # Getting Started
 1) Clone the repository from GitHub: git clone https://github.com/your-username/iiitl-alumni-portal.git
@@ -20,6 +20,8 @@ Backend: Python, Firebase.
 <li>Enable Firebase Authentication and set up the desired sign-in methods.
 <li>Create a Firestore database to store user profiles and other data.
 <li>Copy the Firebase configuration values (API key, project ID, etc.) and replace them in the appropriate places in the project code.
+
+
 5) Start the development server by running npm start.
 6) Access the portal in your web browser at http://localhost:3000.
 
